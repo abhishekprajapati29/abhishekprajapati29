@@ -19,7 +19,7 @@ I am a versatilist and easily adapt to different hats (Full Stack MERN Web Devel
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> More About Me:
+## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> More About Me:
 - 🎓 &nbsp; I’m currently working as an ***React Developer - Inten*** in **Kalpas Innovations Pvt. Ltd**
 - 🔭 &nbsp; I’m currently working on ***Project Management and Handling Web Application***
 - 🌱 &nbsp; I’m currently learning ***Natural language processing (NLP)***
