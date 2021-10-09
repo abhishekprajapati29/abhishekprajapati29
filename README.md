@@ -77,6 +77,6 @@ I am a versatilist and easily adapt to different hats (Full Stack MERN Web Devel
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=abhicareer&show_icons=truer" width = 470>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=abhicareer&hide_border=true" width = 470>
+  <img src = "https://github-readme-stats.vercel.app/api?username=abhicareer&show_icons=truer" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=abhicareer&hide_border=true" width = 400>
 </p>
