@@ -7,9 +7,6 @@
 <a href="https://www.linkedin.com/in/abhishek-prajapati-19b31b161/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/abhishek.prajapati.7311">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhicareer.abhicareer)
 
