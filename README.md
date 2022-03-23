@@ -23,7 +23,7 @@ I am a versatilist and easily adapt to different hats (Full Stack MERN Web Devel
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhicareer?tab=repositories)
 - 💬 &nbsp; Ask me about anything related to tech, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhishek-prajapati-19b31b161/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1BCkw1PeH-LyK-oL2sB8ZhMjd0j8K51X7/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1OmM6HHL2uYu7zX2vEwJUX4VuPt2SrSl1/view?usp=sharing)
 
 <br>
 
