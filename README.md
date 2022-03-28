@@ -17,7 +17,7 @@ I am a versatilist and easily adapt to different hats (Full Stack MERN Web Devel
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" width="400px" width="400px"/>
   
 ## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> More About Me:
-- 🎓 &nbsp; I’m currently working as an ***React Developer - Inten*** in **Kalpas Innovations Pvt. Ltd**
+- 🎓 &nbsp; ***Ex - React Developer - Inten*** in **Kalpas Innovations Pvt. Ltd**
 - 🔭 &nbsp; I’m currently working on ***Project Management and Handling Web Application***
 - 🌱 &nbsp; I’m currently learning ***Natural language processing (NLP)***
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhicareer?tab=repositories)
