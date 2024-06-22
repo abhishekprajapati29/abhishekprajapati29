@@ -4,7 +4,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishekprajapati29.abhishekprajapati29)
 
-I am a results-driven Software Engineer with a track record of enhancing businesses by creating and implementing user-friendly features. With over 1.5 years of combined full-time and internship experience in both frontend and backend development, I've consistently delivered tangible results for my employers.
+I am a results-driven Software Engineer with a track record of enhancing businesses by creating and implementing user-friendly features. With over 2+ years of experience in both frontend and backend development, I've consistently delivered tangible results for my employers.
 
 I'm passionate about transforming business logic into practical development solutions that drive sales growth and enhance product value. I thrive on connecting with new people, and you can reach me at abhishek1999.29@gmail.com.
 <br/>
@@ -17,7 +17,8 @@ I'm passionate about transforming business logic into practical development solu
 -- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhishekprajapati29?tab=repositories)
 - 💬 &nbsp; Ask me about anything related to tech, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhishekprajapati29/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/11SuegkaDe1Eak-Idg7ITy-y024J7WABC/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://github.com/user-attachments/files/15937890/Resume.pdf)
+
 
 <br>
 
