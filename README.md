@@ -17,7 +17,6 @@ I'm passionate about transforming business logic into practical development solu
 -- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhishekprajapati29?tab=repositories)
 - 💬 &nbsp; Ask me about anything related to tech, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhishekprajapati29/)
-- 📝 &nbsp; Checkout my [resume](https://github.com/user-attachments/files/15937890/Resume.pdf)
 
 
 <br>
