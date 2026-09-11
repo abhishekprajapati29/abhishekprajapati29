@@ -1,72 +1,349 @@
+<h1 align="center">Hi 👋, I'm Abhishek Prajapati</h1>
+
+<h3 align="center">
+Software Engineer • Full-Stack Development • Systems & Performance Engineering
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishekprajapati29/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abhishek1999.29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhishek1999.29%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishekprajapati29&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer at Lumel Technologies**, focused on building production-grade applications and performance-focused engineering solutions across frontend, backend, and systems engineering.
+
+My recent work includes integrating **Rust + WebAssembly** with large React/TypeScript applications, optimizing compute-heavy browser workflows, designing scalable application architecture, and solving complex product problems around scheduling, data processing, and highly interactive UI systems.
+
+I enjoy working on engineering problems where **product development, performance, system design, and developer experience** meet.
+
+* 💼 **Software Engineer @ Lumel Technologies**
+* ⚡ Working with **React, TypeScript, Rust, WebAssembly, Node.js, Java, Spring Boot, SQL/NoSQL, AWS & Docker**
+* 🧠 Focused on **System Design, Distributed Systems, Backend Architecture, Performance Engineering & Cloud**
+* 🔧 Experienced in turning complex business requirements into maintainable production systems
+* 🚀 Currently strengthening **DSA, LLD/HLD, Networking, Distributed Systems & Cloud Architecture**
+* 🤝 Interested in high-impact **Full-Stack, Backend, Systems & Developer Tooling** projects
+* 📫 Reach me at **[abhishek1999.29@gmail.com](mailto:abhishek1999.29@gmail.com)**
+
+---
+
+## 🚀 Engineering Focus
+
+### ⚡ Performance Engineering
+
+* Moving compute-intensive browser workflows from **TypeScript/JavaScript to Rust + WebAssembly**
+* Reducing unnecessary cloning, allocations, serialization overhead, and repeated computation
+* Designing efficient graph, scheduling, and date-processing algorithms
+* Building browser-friendly processing pipelines for large datasets
+* Profiling and optimizing application performance across JavaScript and WASM boundaries
+
+### 🖥️ Frontend Engineering
+
+* Building complex applications using **React + TypeScript**
+* Component architecture, reusable UI systems, and state management
+* Advanced drag-and-drop, calendar, timeline, and scheduling interactions
+* Debugging rendering, flicker, state synchronization, and browser behavior
+* Building performance-sensitive interactive interfaces
+
+### ⚙️ Backend & Systems
+
+* Designing and building **REST APIs and backend services**
+* Working with **Node.js, Express, Java, and Spring Boot**
+* Relational and NoSQL data modeling with **MySQL and MongoDB**
+* Learning and implementing event-driven and distributed architectures
+* Working with asynchronous workflows, messaging concepts, and scalable service design
+
+### ☁️ Cloud & DevOps
+
+* Working with **AWS, Docker, Linux, Git, and CI/CD workflows**
+* Git/GitHub-based development and release processes
+* Application deployment and production-oriented engineering practices
+* Learning observability, infrastructure automation, containers, and cloud architecture
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
+![Rust](https://img.shields.io/badge/Rust-111827?style=for-the-badge\&logo=rust\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-111827?style=for-the-badge\&logo=redux\&logoColor=764ABC)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge\&logo=node.js\&logoColor=5FA04E)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge\&logo=express\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge\&logo=springboot\&logoColor=6DB33F)
+![REST API](https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-111827?style=for-the-badge\&logo=webassembly\&logoColor=654FF0)
+
+## Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+
+## Cloud, DevOps & Tooling
+
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge\&logo=amazonwebservices\&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge\&logo=githubactions\&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
+
+---
+
+# 🔬 Recent Engineering Work
+
+## ⚡ Rust + WebAssembly Performance Pipeline
+
+Worked on migrating performance-critical application logic from a JavaScript/TypeScript pipeline to **Rust compiled to WebAssembly**.
+
+### Engineering areas involved
+
+* Graph traversal and dependency processing
+* Scheduling algorithms
+* Critical-path computations
+* Date and working-calendar calculations
+* Rust ↔ JavaScript serialization
+* WASM/browser integration
+* Memory allocation and clone reduction
+* Data processing optimization
+* Integration of WASM packages into React/TypeScript applications
+
+This work involved solving challenges across the entire execution path:
+
+```text
+React / TypeScript
+       ↓
+Application Pipeline
+       ↓
+WebAssembly Boundary
+       ↓
+Rust Processing Engine
+       ↓
+Graph / Scheduling / Calculation Logic
+       ↓
+Serialized Result
+       ↓
+React Application
+```
+
+---
+
+## 📅 Complex Scheduling & Calendar UX
+
+Worked on advanced calendar and scheduling functionality involving:
+
+* Drag-and-drop workflows
+* Event resizing
+* Multi-day event rendering
+* Drag preview overlays
+* Asynchronous state synchronization
+* Date normalization
+* Midnight/end-date boundary handling
+* Preventing UI flicker after data updates
+* Browser DOM inspection
+* React rendering lifecycle debugging
+* Scheduling logic based on working-day calculations
+
+---
+
+## 🏗️ Full-Stack Product Development
+
+Worked on production business applications including:
+
+### 🚗 Vehicle Bidding Platform
+
+Contributed to systems used for managing vehicle bidding workflows and business operations.
+
+Worked across:
+
+* Frontend development
+* Backend development
+* Business workflow implementation
+* APIs
+* Data handling
+* Application features
+* Debugging and production improvements
+
+### 🔍 Vehicle Inspection Platform
+
+Worked on applications supporting vehicle inspection processes and related operational workflows.
+
+Contributed to converting real business requirements into usable application features across frontend and backend systems.
+
+---
+
+# 🧠 Engineering Topics I'm Focused On
+
+```text
+System Design
+Distributed Systems
+High-Level Design
+Low-Level Design
+Data Structures & Algorithms
+Computer Networking
+TCP/IP
+HTTP / HTTPS
+DNS
+Load Balancing
+Caching
+CDNs
+Database Design
+Event-Driven Architecture
+Message Queues
+Microservices
+Java + Spring Boot
+AWS Architecture
+Docker
+CI/CD
+Observability
+Scalable Backend Systems
+Performance Engineering
+```
+
+---
+
+# 🏗️ System Design Journey
+
+I'm actively improving my understanding of how large-scale applications are designed and operated.
+
+Areas I'm focusing on:
+
+```text
+Client
+  ↓
+CDN
+  ↓
+Load Balancer
+  ↓
+API Gateway
+  ↓
+Application Services
+  ↓
+Cache
+  ↓
+Database
+  ↓
+Message Queue
+  ↓
+Background Workers
+```
+
+With concepts such as:
+
+* Horizontal scaling
+* Replication
+* Partitioning
+* Sharding
+* Consistency
+* Availability
+* Fault tolerance
+* Rate limiting
+* Database indexing
+* Asynchronous processing
+* Eventual consistency
+
+---
+
+# 🎯 Career Focus
+
+I'm interested in Software Engineering opportunities involving:
+
+* Backend Engineering
+* Full-Stack Engineering
+* Distributed Systems
+* System Design
+* High-scale Web Applications
+* Performance Engineering
+* Cloud-native Systems
+* Developer Infrastructure
+* Platform Engineering
+* Systems Programming
+* Complex Product Engineering
+
+My long-term direction is toward becoming an engineer capable of designing and building systems across:
+
+```text
+Product Engineering
+       +
+Backend Systems
+       +
+Cloud Architecture
+       +
+Distributed Systems
+       +
+Performance Engineering
+```
+
+---
+
+# 💡 Engineering Philosophy
+
+I like approaching engineering problems with a few simple principles:
+
+```text
+Understand the problem deeply.
+
+Keep the design simple.
+
+Measure before optimizing.
+
+Optimize the bottleneck.
+
+Design for failure.
+
+Build systems that other engineers can understand.
+
+Think beyond "it works" toward "it scales and remains maintainable".
+```
 
 
-### Hey there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20">,<br/><h1> I'm Abhishek Prajapati</h1>
+# 🤝 Let's Connect
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhishekprajapati29.abhishekprajapati29)
+I'm always interested in discussing:
 
-I am a results-driven Software Engineer with a track record of enhancing businesses by creating and implementing user-friendly features. With over 3+ years of experience in both frontend and backend development, I've consistently delivered tangible results for my employers.
+**Software Engineering • System Design • Distributed Systems • React • Rust/WASM • Backend Engineering • AWS • Performance Engineering**
 
-I'm passionate about transforming business logic into practical development solutions that drive sales growth and enhance product value. I thrive on connecting with new people, and you can reach me at abhishek1999.29@gmail.com.
-<br/>
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishekprajapati29/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" width="400px" width="400px"/>
-  
-## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> More About Me:
-- 🎓 &nbsp; ***Software Engineer*** @ **IESOFTEK**
--- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhishekprajapati29?tab=repositories)
-- 💬 &nbsp; Ask me about anything related to tech, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhishekprajapati29/)
+  <a href="mailto:abhishek1999.29@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
+---
 
-<br>
+<p align="center">
+  <b>Build. Measure. Optimize. Scale.</b>
+</p>
 
-<br/>
-
-
-## 🔨 Languages and Tools:
-<img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekprajapati29&hide=TeX&layout=compact" width = 400>
-
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42px" height="42px"/> </a> 
-&emsp;
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42px" height="42px"/> </a> 
-&emsp;
-<a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42px" height="42px"/> </a> 
-&emsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42px" height="42px"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42px" height="42px"/> </a> 
-&emsp; <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42px" height="42px"/> </a> 
-&emsp; <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42px" height="42px"/> </a> 
-&emsp; <a href="https://expressjs.com" target="_blank"> <img color="white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42px" height="42px"/> </a> 
-&emsp; <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42px" height="42px"/> </a> 
-&emsp; <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42px" height="42px"/> </a> 
-&emsp; <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42px" height="42px"/> </a> 
-&emsp; </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42px" height="42px"/> 
-&emsp; </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42px" height="42px"/> 
-&emsp; </a>  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42px" height="42px"/> 
-&emsp; </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42px" height="42px"/> &emsp; </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42px" height="42px"/> &emsp; </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42px" height="42px"/> &emsp; </a> 
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42px" height="42px"/> &emsp; </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42px" height="42px"/> &emsp; </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42px" height="42px"/> &emsp; </a> 
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42px" height="42px"/> &emsp; </a> 
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42px" height="42px"/> &emsp; </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42px" height="42px"/> &emsp; </a> 
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42px" height="42px"/> &emsp; </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42px" height="42px"/> &emsp; </a> 
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42px" height="42px"/> &emsp; </a> 
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42px" height="42px"/> &emsp; </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42px" height="42px"/> &emsp; </a> 
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42px" height="42px"/> &emsp; </a> 
-  </p>
-
-<br>
-
-
-## 📊 Github Stats
-
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=abhishekprajapati29&show_icons=truer" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=abhishekprajapati29&hide_border=true" width = 400>
+<p align="center">
+  Thanks for visiting my profile 👋
 </p>
